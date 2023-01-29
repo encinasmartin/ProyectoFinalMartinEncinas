@@ -1,0 +1,46 @@
+section {
+whidth: 300px;
+border: 15px solid darkslategrey;
+padding: 50px;
+margin: 20px;
+}
+
+.minombre {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color:darkblue;
+}
+
+.miprofesion {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 20px;
+    color:darkslateblue
+}
+
+.midescripcion {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    margin-bottom: 20px;
+    color: darkslateblue;
+}
+
+.titulo {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin: 20;
+    color: darkslateblue;
+}
+
+.texto {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    margin: 10;
+    color: darkblue;
+}
